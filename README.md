@@ -9,8 +9,8 @@ Fashion-MNIST classification with 3-layer neural network
 
 ## 依赖安装
 ```bash
-pip install numpy matplotlib scikit-learn
+pip install numpy matplotlib scikit-learn```
 
 ## 运行
 ```bash
-python MLP.py
+python MLP.py```
